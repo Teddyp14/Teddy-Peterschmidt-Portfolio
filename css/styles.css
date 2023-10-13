@@ -7,11 +7,11 @@
 
 .header {
     /* background-color: rgba(166, 235, 199, 0.79); */
-    background-image: url("https://mail.google.com/mail/u/0?ui=2&ik=cdb60ccb99&attid=0.1.1&permmsgid=msg-f:1779665406021469469&th=18b2a441f8f6051d&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-TFxmBkqgZ9mrL0M8I7IRseJD9v0tyWx_1CCtwqQZGaMLIjcyt6bDCob0zj445IIRAhLANWHjflj6WkPs-vp-KU_KbthrQUTdmyJWey0jcICdOQbdE19bQpaE&disp=emb");
+    background-image: url("https://mail.google.com/mail/u/0?ui=2&ik=cdb60ccb99&attid=0.1.1&permmsgid=msg-f:1779667685966660773&th=18b2a654d048c4a5&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9YQcIIJwEgYiURZL6M6bC0Rqk3aXVzcatXQFBgm1eQSyFh9ZtkKeB0p8h731reI82xYB1GMh3BSXr_x5Sr6f7pxaGZOZb4UjG9F06FPjcRZYQ8rSQGoHYATCc&disp=emb");
     /* I tried adding the background image by copying the relative path of the file in my img folder, but could not get the image to appear. */
     background-size: cover;
     background-repeat: no-repeat;
-    color: rgb(209, 234, 213);
+    color: rgb(56, 56, 70);
     font-size: 40px;
     display: flex;
     border: 1px solid rgb(47, 61, 47);
@@ -22,6 +22,8 @@
 
 .header h2 {
     font-size: 30px;
+    float: right;
+    padding-right: 5%;
 }
 
 .text {
@@ -57,6 +59,10 @@
     padding: 2%;
     border: 2px solid grey;
     border-radius: 10px;
+}
+
+.about-me h2 {
+    text-align: center
 }
 
 .about-me img {
