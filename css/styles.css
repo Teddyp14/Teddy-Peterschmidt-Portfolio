@@ -9,6 +9,10 @@
     margin: 0;
 }
 
+h1 {
+    font-size: 75px;
+}
+
 .header {
     background-image: url("https://mail.google.com/mail/u/0?ui=2&ik=cdb60ccb99&attid=0.1.1&permmsgid=msg-f:1779667685966660773&th=18b2a654d048c4a5&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9YQcIIJwEgYiURZL6M6bC0Rqk3aXVzcatXQFBgm1eQSyFh9ZtkKeB0p8h731reI82xYB1GMh3BSXr_x5Sr6f7pxaGZOZb4UjG9F06FPjcRZYQ8rSQGoHYATCc&disp=emb");
     /* I tried adding the background image by copying the relative path of the file in my img folder, but could not get the image to appear. */
