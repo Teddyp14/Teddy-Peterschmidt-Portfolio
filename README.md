@@ -26,7 +26,7 @@ This webpage provides that user with the information on the author (Teddy Peters
 
 ## Known Bugs
 
-* The photo in the "About me" section should have rounded corners. I am working on editing the CSS so that the padding does not interfere with the radius.  
+* None known at this time, but new additions are in the works and will likely create issues.  
 
 ## License
 

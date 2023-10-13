@@ -1,6 +1,5 @@
 .consistent {
     font-family: Arial, Helvetica, sans-serif;
-    /* padding: 4%; */
     background-color: rgb(45, 48, 45);
     color: white;
 }
@@ -70,7 +69,6 @@ h1 {
     height: auto;
     float: right;
     border-radius: 10px;
-    /* padding: 5%; */
     box-sizing: border-box;
 }
 
