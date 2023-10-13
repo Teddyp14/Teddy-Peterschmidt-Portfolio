@@ -1,25 +1,34 @@
 .consistent {
     font-family: Arial, Helvetica, sans-serif;
     padding: 2%;
+    background-color: rgb(225, 250, 225);
 }
 
 .header {
     background-color: rgba(166, 235, 199, 0.79);
+    color: rgb(29, 1, 55);
+    font-size: 40px;
     display: flex;
-    border: 1px solid green;
-    padding-left: 10%;
+    border: 1px solid rgb(216, 249, 216);
+    padding-left: 5%;
+    border-radius: 10px;
+    height: 600px;
 }
 
+.header h2 {
+    font-size: 30px;
+}
 
 .text {
     flex: 1;
 }
 
 .header img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 50%;
-    padding: 1%
+    max-width: 50%;
+    height: 100%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* padding: 1%; */
 }
 
 
@@ -33,6 +42,7 @@
     display: block;
     padding: 2%;
     border: 2px solid grey;
+    border-radius: 10px;
 }
 
 .about-me {
@@ -41,6 +51,7 @@
     /* text-align: center */
     padding: 2%;
     border: 2px solid grey;
+    border-radius: 10px;
 }
 
 .subtle {
@@ -49,4 +60,8 @@
 
 .indent {
     text-indent: 10px;
+}
+
+.am-lists {
+    border-top: 2px solid grey;
 }
