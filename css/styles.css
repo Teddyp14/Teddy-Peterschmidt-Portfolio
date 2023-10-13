@@ -4,14 +4,34 @@
 
 .header {
     background-color: rgba(166, 235, 199, 0.79);
-    display: block;
+    display: flex;
+    border: 1px solid green;
 }
 
-img {
-    float: right;
-    display: block;
+
+.text {
+    flex: 1;
 }
+
+.header img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
 
 .bullets {
     list-style-type: none;
+}
+
+.projects-list {
+    float: left;
+    width: 40%;
+    display: block;
+}
+
+.about-me {
+    float: right;
+    width: 60%;
+    text-align: center
 }
