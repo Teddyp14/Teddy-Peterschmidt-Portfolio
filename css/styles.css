@@ -4,8 +4,14 @@
 
 .header {
     background-color: rgba(166, 235, 199, 0.79);
+    display: block;
 }
 
-.header img {
+img {
     float: right;
+    display: block;
+}
+
+.bullets {
+    list-style-type: none;
 }
