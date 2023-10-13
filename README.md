@@ -1,8 +1,8 @@
-# _{Teddy Peterschmidt Portfolio}_
+# _Teddy Peterschmidt Portfolio_
 
-#### By _**{Teddy Peterschmidt}**_
+#### By _**Teddy Peterschmidt**_
 
-#### _{A portfoilio webpage to feature projects and provide information about the author.}_
+#### _A portfoilio webpage to feature projects and provide information about the author._
 
 ## Technologies Used
 
@@ -22,7 +22,7 @@ This webpage provides that user with the information on the author (Teddy Peters
 
 ## Known Bugs
 
-* The photo in the "About me" section is not responsive to changes in viewport size. I plan to adjust the CSS to include responsiveness. 
+* The photo in the "About me" section should have rounded corners. I am working on editing the CSS so that the padding does not interfere with the radius.  
 
 ## License
 
