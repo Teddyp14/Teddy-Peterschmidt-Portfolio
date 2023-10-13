@@ -1,6 +1,6 @@
 .consistent {
     font-family: Arial, Helvetica, sans-serif;
-    padding: 2%;
+    padding: 4%;
     background-color: rgb(45, 48, 45);
     color: white;
 }
@@ -30,22 +30,13 @@
     flex: 1;
 }
 
-.header img {
-    max-width: 50%;
-    height: 100%;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    /* padding: 1%; */
-}
-
-
 .bullets {
     list-style-type: none;
 }
 
 .projects-list {
     float: left;
-    width: 25%;
+    width: 30%;
     display: block;
     padding: 2%;
     border: 2px solid grey;
@@ -54,8 +45,7 @@
 
 .about-me {
     float: right;
-    width: 65%;
-    /* text-align: center */
+    width: 50%;
     padding: 2%;
     border: 2px solid grey;
     border-radius: 10px;
@@ -66,19 +56,16 @@
 }
 
 .about-me img {
-    width: 300px;
+    width: 50%;
     height: auto;
     float: right;
-    padding-bottom: 4%;
-    padding-left: 2%;
+    border-radius: 10px;
+    padding: 5%;
+    box-sizing: border-box;
 }
 
 .ab-blurb {
     display: flex;
-}
-
-.subtle {
-    color: rgb(99, 98, 98);
 }
 
 .indent {
@@ -89,6 +76,24 @@
     border-top: 2px solid grey;
 }
 
+.am-lists p {
+    text-indent: 15px;
+    font-size: small;
+}
+
 a {
     color: aqua;
+}
+
+.new-section {
+    display: block;
+    float: left;
+    width: 30%;
+    padding-top: 4%;
+}
+
+.new-section img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
 }
