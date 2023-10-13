@@ -1,0 +1,11 @@
+.consistent {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color: rgba(166, 235, 199, 0.79);
+}
+
+.header img {
+    float: right;
+}
