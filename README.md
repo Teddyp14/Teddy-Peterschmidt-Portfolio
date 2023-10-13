@@ -14,6 +14,10 @@
 
 This webpage provides that user with the information on the author (Teddy Peterschmidt), and provides links to several GitHub repositories of several projects that are intended to illustrate the author's proficiency in the use of HTML, CSS, and Bootstrap.
 
+## Link to GitHub Pages
+
+<https://teddyp14.github.io/Teddy-Peterschmidt-Portfolio/>
+
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop.
