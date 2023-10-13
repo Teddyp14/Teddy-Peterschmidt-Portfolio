@@ -5,8 +5,12 @@
 }
 
 .header {
-    background-color: rgba(166, 235, 199, 0.79);
-    color: rgb(29, 1, 55);
+    /* background-color: rgba(166, 235, 199, 0.79); */
+    background-image: url("https://mail.google.com/mail/u/0?ui=2&ik=cdb60ccb99&attid=0.1.1&permmsgid=msg-f:1779664070717237310&th=18b2a30b12a0683e&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8kDRj6AqYOweR-xhO8ZN4tHyjXbClTN8zsgCn-HKejguUW5LPRTbr7KUzxIpxfj4abbfZc-JA-wduqdcbyYHEKLOEwX9H_jVXsaidFF2tVXyb8V22i342MLlc&disp=emb");
+    /* I tried adding the background image by copying the relative path of the file in my img folder, but could not get the image to appear. */
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(1, 14, 4);
     font-size: 40px;
     display: flex;
     border: 1px solid rgb(216, 249, 216);
